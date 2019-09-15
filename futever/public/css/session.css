@@ -1,0 +1,33 @@
+
+.s-rightside{
+  width: 35%;
+  float: right;
+  background-color: #DADADB;
+  height: 100%;
+}
+
+.s-logreg{
+  background-color: #444444;
+  color: white;
+  margin: 50% 3% 0 3%;
+  width: auto;
+  height: auto;
+}
+
+.s-input{
+  margin-top:2%;
+}
+.s-backgroundpic{
+        background-image: url(/images/sessionpic.jpg);
+        background-position: center center;
+  			background-repeat:  no-repeat;
+  			background-attachment: fixed;
+  			background-size:  cover;
+  			background-color: #999;
+}
+
+.s-submit{
+  margin-top: 4%;
+  background-color: #F65E0D !important;
+  border-color: #F97308 !important;
+}

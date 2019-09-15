@@ -1,0 +1,26 @@
+nav {
+  background-color: #444444;
+  position: fixed !important;
+  padding-bottom: 40px;
+  width: 100%;
+}
+
+.p-data {
+  background-color: #CDCDCF;
+  float: left;
+  height: auto;
+  width: 80%;
+  margin: 100px 10%;
+  margin-bottom: 0;
+}
+
+.p-main {
+  margin-left: 10%;
+  margin-right: 10%;
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.p-titel {
+  margin-left: 10%;
+}

@@ -1,0 +1,84 @@
+html{
+  height: 100%;
+}
+nav{
+  background-color: #444444;
+  position: fixed !important;
+  padding-bottom: 40px;
+  width: 100%;
+}
+a{
+  color: #DADADB !important;
+}
+
+body{
+      height: 100%;
+      background-color: #DADADB !important;
+}
+
+.d-container {
+  height: 100%;
+}
+
+.d-profile {
+  background-color: #CDCDCF;
+  float: left;
+  width: 30%;
+  height: 80%;
+  margin: 100px 2%;
+  margin-bottom: 0;
+  position: fixed;
+}
+
+.d-matches {
+  background-color: #CDCDCF;
+  float: right;
+  height: auto;
+  width: 60%;
+  margin: 100px 2%;
+  margin-bottom: 0;
+}
+
+.d-fullside{
+  height: 100%;
+  width: 100%;
+}
+
+.d-profilecontainer {
+  width: 100%;
+}
+
+.d-prognose {
+  width: 100%;
+}
+
+.d-center {
+  display: block;
+  margin: 10px auto;
+}
+.d-data {
+  vertical-align: top;
+  text-align: center;
+}
+
+.d-profileleft{
+  width: 50%;
+}
+.d-profiledata{
+  display: inline;
+}
+
+.d-rounded {
+  border-radius: 10px;
+}
+
+.d-border {
+  border: 2px solid #444444;
+}
+
+.d-prognosepic {
+  height: 420px;
+}
+.d-inputtore{
+  width: 40%;
+}
